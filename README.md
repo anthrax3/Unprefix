@@ -9,6 +9,6 @@ My issue is that any video downloaded by this website, it is automatically given
 python unprefix.py --path C:\Users\TrustedSec\Downloads
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/0xsecguy/Unprefix/master/unprefix.png)
+![screenshot](https://raw.githubusercontent.com/0xsecguy/Unprefix/master/screenshot.jpg)
 
 
