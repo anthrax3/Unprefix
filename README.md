@@ -1,6 +1,8 @@
 ## Unprefix
 
-Downvids allows you to download video, playlist or the whole Youtube channel which is awesome. My issue is that any video downloaded by this website, it is automatically given a prefix name of the website.
+Downvids allows you to download youtube's video, playlist or the whole channel which is awesome.  
+
+My issue is that any video downloaded by this website, it is automatically given a prefix name of the website.
   * e.g. [WWW.DOWNVIDS.NET-What makes you special.mp4]
 
 ## Usage:
